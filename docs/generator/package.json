@@ -1,0 +1,5 @@
+{
+  "name": "fivestar-bus-docs",
+  "private": true,
+  "dependencies": { "docx": "9.5.1" }
+}

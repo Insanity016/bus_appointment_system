@@ -1,0 +1,13 @@
+{
+  "name": "Five Star Bus",
+  "short_name": "Five Star",
+  "description": "Book bus tickets, keep your e-tickets offline, track your bus and parcels.",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A2E73",
+  "theme_color": "#0A2E73",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
